@@ -54,13 +54,15 @@ Built with **Flutter**, featuring a modern UI and integrated with **Firebase Clo
 
 ## 📸 Screenshots
 
-<p align="center">
-<img width="200" height="400" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c9f03141-e618-4e74-ba04-77edc15f2f0c" />
-<img width="200" height="400" alt="Screenshot 2" src="https://github.com/user-attachments/assets/e2d92ef9-d207-40f8-8235-b56a51eb2624" />
-<img width="200" height="400" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ef02cb88-16f2-4824-8679-233809fc0f18" />
-<img width="200" height="400" alt="Screenshot 4" src="https://github.com/user-attachments/assets/ccada1dd-9d15-412a-84d0-c21d892cb127" />
-<img width="200" height="400" alt="Screenshot 5" src="https://github.com/user-attachments/assets/43ce820d-f503-4b00-9fd2-2513fada596a" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c9f03141-e618-4e74-ba04-77edc15f2f0c" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e2d92ef9-d207-40f8-8235-b56a51eb2624" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ef02cb88-16f2-4824-8679-233809fc0f18" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ccada1dd-9d15-412a-84d0-c21d892cb127" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/43ce820d-f503-4b00-9fd2-2513fada596a" width="180"/></td>
+  </tr>
+</table>
 
 ---
 
